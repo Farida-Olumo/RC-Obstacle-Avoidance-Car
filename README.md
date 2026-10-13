@@ -34,8 +34,6 @@ The system coordinates motor operation to support the car's movement and directi
 
 ## Hardware Components
 
-*Add the components actually used in your build, including:*
-
 - Microcontroller
 - Motor driver
 - DC motors and chassis
@@ -47,12 +45,6 @@ The system coordinates motor operation to support the car's movement and directi
 
 The software coordinates user commands, sensor readings, and motor responses.
 
-*Add the actual programming language, development environment, and control logic.*
-
-## System Architecture
-
-*Include a diagram illustrating the relationship between the controller, sensors, motors, and control interface.*
-
 ## Evaluation
 
 Document the functionality of the prototype, including:
@@ -61,10 +53,6 @@ Document the functionality of the prototype, including:
 - Obstacle detection
 - Avoidance behaviour
 - Observed system limitations
-
-## Project Demonstration
-
-Add photographs, circuit diagrams, and videos showing the robot in operation.
 
 ## Future Improvements
 
